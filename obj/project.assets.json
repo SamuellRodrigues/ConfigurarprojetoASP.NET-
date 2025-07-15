@@ -4051,11 +4051,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alunos\\Documents\\samuel_senai\\ConfigurarprojetoASP.NET-\\ConfigurarprojetoASP.NET-\\ConfigurarprojetoASP.NET-.csproj",
+      "projectUniqueName": "C:\\Users\\Alunos\\Documents\\Matheus Andrade\\ConfigurarProjetoAspNet\\ConfigurarprojetoASP.NET-\\ConfigurarprojetoASP.NET-.csproj",
       "projectName": "ConfigurarprojetoASP.NET-",
-      "projectPath": "C:\\Users\\Alunos\\Documents\\samuel_senai\\ConfigurarprojetoASP.NET-\\ConfigurarprojetoASP.NET-\\ConfigurarprojetoASP.NET-.csproj",
+      "projectPath": "C:\\Users\\Alunos\\Documents\\Matheus Andrade\\ConfigurarProjetoAspNet\\ConfigurarprojetoASP.NET-\\ConfigurarprojetoASP.NET-.csproj",
       "packagesPath": "C:\\Users\\Alunos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alunos\\Documents\\samuel_senai\\ConfigurarprojetoASP.NET-\\ConfigurarprojetoASP.NET-\\obj\\",
+      "outputPath": "C:\\Users\\Alunos\\Documents\\Matheus Andrade\\ConfigurarProjetoAspNet\\ConfigurarprojetoASP.NET-\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alunos\\AppData\\Roaming\\NuGet\\NuGet.Config"

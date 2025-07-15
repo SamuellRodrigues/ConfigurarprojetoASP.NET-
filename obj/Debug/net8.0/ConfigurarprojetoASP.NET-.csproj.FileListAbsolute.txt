@@ -139,3 +139,13 @@ C:\Users\Alunos\Documents\samuel_senai\ConfigurarprojetoASP.NET-\Configurarproje
 C:\Users\Alunos\Documents\samuel_senai\ConfigurarprojetoASP.NET-\ConfigurarprojetoASP.NET-\obj\Debug\net8.0\ConfigurarprojetoASP.NET-.pdb
 C:\Users\Alunos\Documents\samuel_senai\ConfigurarprojetoASP.NET-\ConfigurarprojetoASP.NET-\obj\Debug\net8.0\ConfigurarprojetoASP.NET-.genruntimeconfig.cache
 C:\Users\Alunos\Documents\samuel_senai\ConfigurarprojetoASP.NET-\ConfigurarprojetoASP.NET-\obj\Debug\net8.0\ref\ConfigurarprojetoASP.NET-.dll
+C:\Users\Alunos\Documents\Matheus Andrade\ConfigurarProjetoAspNet\ConfigurarprojetoASP.NET-\obj\Debug\net8.0\ConfigurarprojetoASP.NET-.csproj.AssemblyReference.cache
+C:\Users\Alunos\Documents\Matheus Andrade\ConfigurarProjetoAspNet\ConfigurarprojetoASP.NET-\obj\Debug\net8.0\ConfigurarprojetoASP.NET-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Documents\Matheus Andrade\ConfigurarProjetoAspNet\ConfigurarprojetoASP.NET-\obj\Debug\net8.0\ConfigurarprojetoASP.NET-.AssemblyInfoInputs.cache
+C:\Users\Alunos\Documents\Matheus Andrade\ConfigurarProjetoAspNet\ConfigurarprojetoASP.NET-\obj\Debug\net8.0\ConfigurarprojetoASP.NET-.AssemblyInfo.cs
+C:\Users\Alunos\Documents\Matheus Andrade\ConfigurarProjetoAspNet\ConfigurarprojetoASP.NET-\obj\Debug\net8.0\ConfigurarprojetoASP.NET-.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Documents\Matheus Andrade\ConfigurarProjetoAspNet\ConfigurarprojetoASP.NET-\obj\Debug\net8.0\ConfigurarprojetoASP.NET-.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alunos\Documents\Matheus Andrade\ConfigurarProjetoAspNet\ConfigurarprojetoASP.NET-\obj\Debug\net8.0\ConfigurarprojetoASP.NET-.sourcelink.json
+C:\Users\Alunos\Documents\Matheus Andrade\ConfigurarProjetoAspNet\ConfigurarprojetoASP.NET-\obj\Debug\net8.0\ConfigurarprojetoASP.NET-.dll
+C:\Users\Alunos\Documents\Matheus Andrade\ConfigurarProjetoAspNet\ConfigurarprojetoASP.NET-\obj\Debug\net8.0\refint\ConfigurarprojetoASP.NET-.dll
+C:\Users\Alunos\Documents\Matheus Andrade\ConfigurarProjetoAspNet\ConfigurarprojetoASP.NET-\obj\Debug\net8.0\ConfigurarprojetoASP.NET-.pdb
